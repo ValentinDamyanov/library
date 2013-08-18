@@ -1,0 +1,80 @@
+body {
+background-color: #F0F0F0;
+margin:0;
+padding:0;             
+}
+            
+#historyTable {   
+position: relative;
+left:90%;
+top:30px;
+border:1px solid blue;
+}
+            
+#ClearHistoryButton {
+position: absolute;
+bottom: 96%;
+left:92%;
+}
+            
+#BookResult {
+border: blue;
+width: 320px;
+}
+            
+#TdPrice {
+width: 40px;
+background-color:#F0E68C;
+}
+
+#TdGenre {
+background-color:#CCFFCC;
+width: 70px;
+}
+#TdPriceResult {
+background-color:#F2F5A9 ;
+width: 40px;
+}
+
+#TdTitleResult {
+background-color:#DCDCDC;
+}   
+
+#TdIdHistory {
+background-color: #F6F6F6;
+}
+
+#TdNameHistory {
+background-color: #DCDCDC;
+}
+
+.left
+{
+width:40%;
+height:auto;
+}
+
+.right
+{
+float:right;
+width:80%;
+height:auto;
+}
+
+#TableHeader {
+background-color:#acc8cc;
+border-width: 1px;
+border-style: solid;
+border-color: #729ea5;
+text-align:left;
+}
+
+#thTitle {
+background-color:#acc8cc;
+}
+
+#thGenre {
+background-color:#99CC99;
+width: 70px;
+}
+     

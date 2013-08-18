@@ -1,0 +1,26 @@
+body       {
+background-color: #F0F0F0;              
+}
+
+#table1    {
+width: 350px;
+border:2px solid blue;
+}
+
+#table1 th {
+background-color:#acc8cc;
+border: 2px solid blue;
+border-top-style: hidden;
+border-left-style: hidden;
+border-right-style: hidden;
+}
+
+#buttonForm {
+position: relative;
+left:145px;
+}
+
+#selectGenre {
+font-weight: bold;
+}
+
