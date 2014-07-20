@@ -17,3 +17,6 @@
 	  Can export book to browser,XML,JSON and .xls files
 	  
 	  
+	  --update the readme
+	  
+	  
